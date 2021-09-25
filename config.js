@@ -1,8 +1,8 @@
 module.exports = {
     app: {
         px: 'XXX',
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'ODg3ODkxNDI5MzQ1NjE1OTEy.YUKvVA.9hbuOGTRMPR-9p6uqiYG4QOMjCg',
+        playing: 'Ancient Dreams In A Modern Land',
     },
 
     opt: {
